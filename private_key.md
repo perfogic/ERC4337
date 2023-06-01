@@ -26,8 +26,12 @@
 ## **Questions:**
 
 - Liệu việc chia "Private Key" có ảnh hưởng đến tính bảo mật không ? Vì khi chia nhỏ thì range sẽ nhỏ lại!
+
   - **Trả lời**: Có, tuy nhiên mình có thể tăng bảo mật của khóa key từ 2/3 lên 3/4 và thêm **Authentication Factor** như là "Hardware Device"
+
+- Thông qua việc tìm hiểu về cái này đã dẫn đến việc mình phải tìm hiểu thêm về **Architecture của Torus**
 
 ## **References:**
 
 https://web3auth.io/docs/infrastructure/key-management#improvements-to-key-recovery-and-redundancy
+https://docs.tor.us/key-infrastructure/technical-architecture
